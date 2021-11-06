@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-!Desktop screen [https://roompale.github.io/Order-summary-component-challenge/desktop-screenshot.png](./desktop-screenshot.png)
-!Mobile screen [https://roompale.github.io/Order-summary-component-challenge/mobile-screenshot.png](./mobile-screenshot.png)
+!Desktop screen [Screenshot](./desktop-screenshot.png)
+!Mobile screen [Screenshot](./mobile-screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://roompale.github.io/Order-summary-component-challenge/](https://roompale.github.io/Order-summary-component-challenge/)
+- Solution URL: [my Github link](https://github.com/roompale/Order-summary-component-challenge.git)
+- Live Site URL: [Live site link](https://roompale.github.io/Order-summary-component-challenge/)
 
 ## My process
 
@@ -43,5 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Website - Gee
-- Frontend Mentor - @roompale (https://www.frontendmentor.io/profile/roompale)
+- Gee
+- Frontend Mentor - [@roompale] (https://www.frontendmentor.io/profile/roompale)
