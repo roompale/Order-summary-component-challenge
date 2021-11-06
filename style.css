@@ -1,0 +1,193 @@
+body {
+	font-family: 'Red Hat Display', sans-serif;
+}
+
+p{
+	margin: 0px;
+	color: #777A8B;
+	line-height: 26px;
+}
+
+.contain1 {
+	width: 1440px;
+	align-content: center;
+	margin: auto;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-image: url("images/pattern-background-desktop.svg");
+	background-repeat: no-repeat;
+  	background-color: #E0E8FF;
+}
+
+
+.contain2card {
+	align-items: center;
+	width: 450px;
+	height: auto;
+	margin: auto;
+	border-radius: 20px;
+	background-color: white;
+
+}
+
+.imagetopthird{
+	background-image: url("images/illustration-hero.svg");
+	background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 220px;
+    border-radius: 20px 20px 0px 0px;
+     
+}
+
+
+.contentbottom2third {
+	width: 354px;
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.summary {
+	margin-bottom: 24px;
+}
+
+
+.info {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	width: 100%;
+	border-radius: 10px;
+	background-color: #F8F9FE;
+}
+
+.infoleft {
+	display: block;
+	padding: 23px;
+}
+
+.infomid {
+	width: 100%;
+	margin: auto;
+	text-align: left;
+}
+
+.inforight {
+	margin: auto;
+	padding: 26px;
+}
+
+.infobutton {
+	color: #382AE1;
+	font-size: 14px;
+}
+
+.infobutton:hover {
+	color: #766CF1;
+	text-decoration: none;
+}
+
+.button {
+	width: 100%;
+	background-color: #382AE1;
+	border-radius: 10px;
+	font-size: 16px;
+	color: white;
+	padding: 18px 0 18px 0;
+	text-decoration: none;
+	margin: 34px;
+	border: none;
+	box-shadow: 0px 17px 24px rgba(56, 42, 225, 0.25);
+}
+
+.button:hover {
+	background-color: #766CF1;
+}
+
+.cancel {
+	margin: 0px;
+	color: #777A8B;
+	text-decoration: none;
+}
+
+.cancel:hover {
+	color:#1F2F59;
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 27px;
+	margin: 0px 0px 24px 0px;
+	color: #1F2F59;
+}
+
+h4 {
+	font-weight: 700;
+	font-size: 16px;
+	margin: 0px;
+	color: #40475C;
+}
+
+
+@media only screen and (max-width: 375px) {
+
+	p{
+		margin: 0px;
+		color: #777A8B;
+		line-height: 25px;
+	}
+
+	.contain1 {
+		width: 375px;
+		align-content: center;
+		margin: auto;
+		padding-top: 70px;
+		padding-bottom: 70px;
+		background-image: url("images/pattern-background-desktop.svg");
+		background-repeat: no-repeat;
+	  	background-color: #E0E8FF;
+	}
+
+	.contain2card {
+		align-items: center;
+		width: 330px;
+		height: auto;
+		margin: auto;
+		border-radius: 20px;
+		background-color: white;
+
+	}
+
+	.imagetopthird{
+		height: 160px;
+	}
+
+
+
+	.contentbottom2third {
+		width: 280px;
+		padding-bottom: 35px;
+		padding-top: 35px;
+	}
+
+	.infoleft {
+		padding: 23px 18px 23px 18px;
+	}
+
+	.button {
+		margin: 24px 0px 24px 0px;
+	}
+
+	h3 {
+		margin: 0px 0px 22px 0px;
+	}
+
+}
+
