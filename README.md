@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-!Desktop screen [](./desktop-screenshot.jpg)
-!Mobile screen [](./mobile-screenshot.jpg)
+!Desktop screen [https://roompale.github.io/Order-summary-component-challenge/desktop-screenshot.png](./desktop-screenshot.png)
+!Mobile screen [https://roompale.github.io/Order-summary-component-challenge/mobile-screenshot.png](./mobile-screenshot.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://roompale.github.io/Order-summary-component-challenge/](https://roompale.github.io/Order-summary-component-challenge/)
 
 ## My process
 
